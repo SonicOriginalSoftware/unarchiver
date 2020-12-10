@@ -1,0 +1,23 @@
+{
+  "name": "unarchiver",
+  "version": "1.0.0",
+  "description": "Unarchive tar files",
+  "main": "unarchive.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx @sonicoriginalsoftware/jester"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.sr.ht/~nathanblair/unarchiver"
+  },
+  "keywords": [
+    "tar"
+  ],
+  "author": "Nathan Blair",
+  "license": "ISC",
+  "devDependencies": {
+    "@sonicoriginalsoftware/jester": "0.2.6",
+    "@types/node": "^14.14.11"
+  }
+}
